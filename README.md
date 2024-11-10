@@ -1,5 +1,5 @@
-# CASA13prac1
-0013FSDSpractical01
+# CASA13prac
+0013FSDSpractical
 ### Foundations of Spatial Data Science
 
 This repository contains practicals and notes from the _Foundations_ module. 
